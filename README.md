@@ -1,1 +1,1 @@
-# mylib
+Sample library
